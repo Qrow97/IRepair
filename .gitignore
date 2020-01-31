@@ -3880,3 +3880,6 @@ RepairProject/Library/SpriteAtlasDatabase.asset
 RepairProject/Library/
 RepairProject/Temp/UnityLockfile
 RepairProject/Temp/
+RepairProject/Packages/manifest.json
+RepairProject/Logs/Packages-Update.log
+RepairProject/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
